@@ -19,7 +19,7 @@ This repository contains a Jupyter notebook with Machine Learning and Statistics
 There are a couple of ways to view and run notebook.
 
    1. The file can be downloaded locally and run on the PC with Jupyter Notebook installed
-   2. It can be viewed in the web browser on the [nbviewer](https://nbviewer.jupyter.org/github/52954-MachineLearning/blob/master/Tasks.ipynb)
+   2. It can be viewed in the web browser on the [nbviewer](https://nbviewer.jupyter.org/github/G00376332/52954-MachineLearning/blob/main/Tasks.ipynb)
    3. Directrly on the [GitHub](https://github.com/G00376332/52954-MachineLearning/blob/master/Tasks.ipynb)
 
 ### How to install Jupyter Notebook
